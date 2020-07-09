@@ -7,29 +7,29 @@ tags:
   - notice
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+A.
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+n `{: .notice}` ce `.notice` te `<p></p>` e. 
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
+**Changes in Service:** W [privacy policy](#) h.
 {: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Primary Notice:** L [Praesent libero](#). S.
 {: .notice--primary}
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Info Notice:** L [consectetur adipiscing elit](#). I.
 {: .notice--info}
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Warning Notice:** L [Integer nec odio](#). .
 {: .notice--warning}
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Danger Notice:** L [consectetur adipiscing](#) e.
 {: .notice--danger}
 
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
+**Success Notice:** L [nibh elementum](#) .
 {: .notice--success}
 
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
+W `markdownify` i.
 
 ```html
 {% raw %}{% capture notice-2 %}
@@ -43,17 +43,17 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 ```
 
 {% capture notice-2 %}
-#### New Site Features
+#### N
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
+* Y
+* D
 {% endcapture %}
 
 <div class="notice">
   {{ notice-2 | markdownify }}
 </div>
 
-Or you could skip the capture and stick with straight HTML.
+O.
 
 ```html
 <div class="notice">
@@ -63,6 +63,6 @@ Or you could skip the capture and stick with straight HTML.
 ```
 
 <div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
+  <h4>M</h4>
+  <p>A b</p>
 </div>
