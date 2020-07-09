@@ -18,10 +18,15 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Google search results) and in your site description.
 twitter_username: o_2468
-github_username: username
-minimal_mistakes_skin: default
+github_username: omarmerghany
+minimal_mistakes_skin: mint
+#minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+teaser: /assets/images/100drone.jpg
+# https://www.aerotime.aero/aviation-blog/wp-content/uploads/2016/05/Intel-Drone-100-Light-Show-Orchestra2.jpg
+
 search: true
 
 # Build settings
