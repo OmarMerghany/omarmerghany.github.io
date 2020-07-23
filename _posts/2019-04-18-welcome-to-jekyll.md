@@ -6,6 +6,8 @@ categories:
 tags:
   - Jekyll
   - update
+
+youtubeId: PUv66718DII
 ---
 
 Ys:
@@ -19,7 +21,10 @@ print_hi('Tom')
 
 ```
 
-Check out the [Jekyll docs][jekyll-docs] t [Jekyll’s GitHub repo][jekyll-gh]. n [Jekyll Talk][jekyll-talk].
+{% include youtubePlayer.html id=page.youtubeId %}
+
+
+Check out the [Jekyll docs][jekyll-docs] [Jekyll’s GitHub repo][jekyll-gh]. [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
