@@ -1,8 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Readings"
-    url: /categories/
+#  - title: "Readings"
+#    url: /categories/
   - title: "Videos"
     url: /tags/
   - title: "About Me"
