@@ -23,9 +23,9 @@ print_hi('Tom')
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+Want to see my work?
 
 Check out the [Jekyll docs][jekyll-docs] [Jekyll’s GitHub repo][jekyll-gh]. [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+

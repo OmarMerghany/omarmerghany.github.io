@@ -3,4 +3,5 @@ permalink: /about/
 title: "About Me"
 ---
 
-This page will a kind of biography and interests
+Want to know me?
+I believe that to read someone you need to know what he is reading, what he is watching and interests.
