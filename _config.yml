@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Omar Merghany"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography to a sentence or two goes here."
+  bio    : "Techie|Automate boring tasks"
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
